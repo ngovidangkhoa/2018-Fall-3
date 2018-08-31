@@ -1,6 +1,6 @@
 # Welcome to ICS3!
 
-1. Review the your course outline: ICS3U or ICS3C
+1. Review the your course outline: [ICS3U](https://github.com/ICS4U-ICS4C/2018-Fall-ICS4/blob/master/ICS3U%20Course%20Outline.docx) or [ICS3C](https://github.com/ICS4U-ICS4C/2018-Fall-ICS4/blob/master/ICS3C%20Course%20Outline.docx)
 2. Create a GitHub account
 3. Record your account info with your instructor to enrol in class
 4. Say [Hello](https://guides.github.com/activities/hello-world/) to GitHub!
