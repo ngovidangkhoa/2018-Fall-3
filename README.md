@@ -8,7 +8,7 @@
 
 # Tentative Course Outline
 
-    Module 0: File maintenance and Version control 
+    [Module 0: File Maintenance and Version Control](#module-0) 
     Module 1: Intro to the Internet
     Module 2: Add Content
     Module 3: Add Style
@@ -21,7 +21,8 @@
 Each Module should take approximately two weeks. You will complete a quiz and an assignment for each module. Expect an assessment each Friday, unless specified otherwise. You must be present for all assessments. If an asessment is missed due to a planned or foreseeable absence, it is your responsibility to arrange to complete the assessment ahead of time. In case of illness, you are expected to complete the assessment immediately upon return.
 
 
-# Module 0: File maintenance and Version control
+## Module 0
+# File Maintenance and Version Control
 
 **Asignment 0**: [ICS3U](https://classroom.github.com/a/aBauRsn4) [ICS3C](https://classroom.github.com/a/aBauRsn4)
 
