@@ -13,19 +13,19 @@ Module 0: [File Maintenance and Version Control](#module-0)
 
 Module 1: [Intro to the Internet](#module-1)
 
-Module 2: [Add Content](#module-2)
+Module 2: [HTML CSS, Level I](#module-2)
    
-Module 3: [Add Style](#module-3)
+Module 3: [HTML CSS, Level II](#module-3)
 
-Module 4: [Make it Interactive](#module-4)
+Module 4: [UMLs and Scratch](#module-4)
 
-Module 5: [Skills, Part I](#module-5)
+Module 5: [JS Skills, Level I](#module-5)
 
-Module 6: [Skills, Part II](#module-6)
+Module 6: [JS Skills, Level II](#module-6)
 
-Module 7: [Skills, Part III](#module-7)
+Module 7: [JS Skills, Level III](#module-7)
 
-Module 8: [Teach Us Something New](#module-8)
+Module 8: [Seminar](#module-8)
 
 Each Module should take approximately two weeks. You will complete a quiz and an assignment for each module. Expect an assessment each Friday, unless specified otherwise. You must be present for all assessments. If an asessment is missed due to a planned or foreseeable absence, it is your responsibility to arrange to complete the assessment ahead of time. In case of illness, you are expected to complete the assessment immediately upon return.
 
