@@ -1,10 +1,12 @@
 # Welcome to ICS3!
 
-1. Review the your course outline: [ICS3U](https://github.com/ICS4U-ICS4C/2018-Fall-ICS4/blob/master/ICS3U%20Course%20Outline.docx) or [ICS3C](https://github.com/ICS4U-ICS4C/2018-Fall-ICS4/blob/master/ICS3C%20Course%20Outline.docx)
-2. Create a GitHub account
-3. Record your account info with your instructor to enrol in class
-4. Say [Hello](https://guides.github.com/activities/hello-world/) to GitHub!
+1. Review the your course outline on the class website 
 
+2. Say [Hello](https://guides.github.com/activities/hello-world/) to GitHub!It's a steep learning curve, but it's worth figuring out. Expect that it will take us some time to figure it out.
+
+3.Create a Github account
+
+4. Under "Module 0", try Assignment 0. Be careful to choose the correct course code for college or uni prep
 ---
 
 # Tentative Syllabus
@@ -38,20 +40,6 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 
 **Quiz 0**: Topics to review
 
-## Notes and Learning Resources
-
-Here's what you need to know a
-bout file maintenance and version control
-Here's what you need to know a
-bout file maintenance and version control
-Here's what you need to know a
-bout file maintenance and version control
-
-Here's what you need to know a
-bout file maintenance and version control
-Here's what you need to know a
-bout file maintenance and version control
-
 ---
 
 # Module 1
@@ -61,9 +49,6 @@ bout file maintenance and version control
 
 **Quiz 1**: Topics to review
 
-## Notes and Learning Resources
-Here's what you need to know about
-
 ---
 
 # Module 2
@@ -71,11 +56,7 @@ Here's what you need to know about
 
 **Asignment 2**: ICS3U and ICS3C
 
-**Quiz 2**: Topics to review
-
-## Notes and Learning Resources
-
-Here's what you need to know 
+**Quiz 2**: Topics to review 
 
 ---
 
@@ -84,11 +65,7 @@ Here's what you need to know
 
 **Asignment 3**: ICS3U and ICS3C
 
-**Quiz 3**: Topics to review
-
-## Notes and Learning Resources
-
-Here's what you need to know 
+**Quiz 3**: Topics to review 
 
 ---
 
@@ -99,10 +76,6 @@ Here's what you need to know
 
 **Quiz 4**: Topics to review
 
-## Notes and Learning Resources
-
-Here's what you need to know 
-
 ---
 
 # Module 5
@@ -111,10 +84,6 @@ Here's what you need to know
 **Asignment 5**: ICS3U and ICS3C
 
 **Quiz 5**: Topics to review
-
-## Notes and Learning Resources
-
-Here's what you need to know 
 
 ---
 
@@ -125,10 +94,6 @@ Here's what you need to know
 
 **Quiz 6**: Topics to review
 
-## Notes and Learning Resources
-
-Here's what you need to know 
-
 ---
 
 # Module 7
@@ -137,10 +102,6 @@ Here's what you need to know
 **Asignment 7**: ICS3U and ICS3C
 
 **Quiz 7**: Topics to review
-
-## Notes and Learning Resources
-
-Here's what you need to know 
 
 --- 
 
@@ -152,9 +113,5 @@ Here's what you need to know
 **Tech Seminar**: Rubric
 
 **Presentation Dates**
-
-## Notes and Learning Resources
-
-Here's what you need to know 
 
 ---
