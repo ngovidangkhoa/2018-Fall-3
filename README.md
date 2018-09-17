@@ -41,7 +41,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 # Module 1
 ## Intro to HTML and CSS
 
-**Asignment 1**: [ICS3U](https://classroom.github.com/a/YhECfunA) and [ICS3C](https://classroom.github.com/a/49WX1EYN)
+**Asignment 1**: ICS3U and ICS3C
 
 **Quiz 1**: Topics to review
 
