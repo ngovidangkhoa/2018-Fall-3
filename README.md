@@ -1,7 +1,7 @@
 # Welcome to ICS3!
 
   1. Review the your course outline on the [Class Website](https://ics3u-ics3c.github.io/2018-Fall-3/) 
-  2. Say [Hello](https://guides.github.com/activities/hello-world/) to GitHub!It's a steep learning curve, so expect that it will take us some time to figure it out.
+  2. Say [Hello](https://guides.github.com/activities/hello-world/) to GitHub! It's a steep learning curve, so expect that it will take us some time to figure it out.
   4. Under "Module 0", try Assignment 0. Be careful to choose the correct course code for college or uni prep.
 ---
 
