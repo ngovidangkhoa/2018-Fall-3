@@ -10,19 +10,19 @@
 
 Module 0: [File Maintenance and Version Control](#module-0)
 
-Module 1: [Intro to the Internet](#module-1)
+Module 1: [Intro to HTML and CSS](#module-1)
 
-Module 2: [HTML CSS, Level I](#module-2)
+Module 2: [UMLs and Scratch](#module-2)
    
-Module 3: [HTML CSS, Level II](#module-3)
+Module 3: [JS Skills, Level I](#module-3)
 
-Module 4: [UMLs and Scratch](#module-4)
+Module 4: [JS Skills, Level II](#module-4)
 
-Module 5: [JS Skills, Level I](#module-5)
+Module 5: [JS Skills, Level III](#module-5)
 
-Module 6: [JS Skills, Level II](#module-6)
+Module 6: [Computer Science Topics](#module-6)
 
-Module 7: [JS Skills, Level III](#module-7)
+Module 7: [Computer Science Topics](#module-7)
 
 Module 8: [Seminar](#module-8)
 
@@ -40,7 +40,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 ---
 
 # Module 1
-## Intro to the Internet
+## Intro to HTML and CSS
 
 **Asignment 1**: [ICS3U](https://classroom.github.com/a/YhECfunA) and [ICS3C](https://classroom.github.com/a/49WX1EYN)
 
@@ -49,7 +49,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 ---
 
 # Module 2
-## Add Content
+## UMLs and Scratch
 
 **Asignment 2**: ICS3U and ICS3C
 
@@ -58,7 +58,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 ---
 
 # Module 3
-## Add Style
+## JS Skills, Level I
 
 **Asignment 3**: ICS3U and ICS3C
 
@@ -67,7 +67,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 ---
 
 # Module 4
-## Make it Interactive
+## JS Skills, Level II
 
 **Asignment 4**: ICS3U and ICS3C
 
@@ -76,7 +76,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 ---
 
 # Module 5
-## Skills, Part I
+## JS Skills, Level III
 
 **Asignment 5**: ICS3U and ICS3C
 
@@ -85,7 +85,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 ---
 
 # Module 6
-## Skills, Part II
+## Computer Science Topics
 
 **Asignment 6**: ICS3U and ICS3C
 
@@ -94,7 +94,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 ---
 
 # Module 7
-## Skills, Part III
+## Computer Science Topics
 
 **Asignment 7**: ICS3U and ICS3C
 
@@ -103,7 +103,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 --- 
 
 # Module 8
-## Teach Us Something New
+## Seminar: Teach Us Something New
 
 **Tech Seminar Assignment**: Requirements
 
